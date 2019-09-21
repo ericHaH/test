@@ -1,0 +1,15 @@
+* text eol=lf
+*.png binary
+*.jpg binary
+*.font binary
+*.ico binary
+*.gif binary
+*.ttf binary
+*.doc binary
+*.eot binary
+*.doc binary
+*.xls binary
+*.ppt binary
+*.docx binary
+*.xlsx binary
+*.pptx binary
